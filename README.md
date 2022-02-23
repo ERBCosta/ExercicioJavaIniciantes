@@ -26,9 +26,9 @@ decimais.
 código de uma peça 2, o número de peças 2 e o valor unitário de cada peça 2. Calcule e mostre o valor a ser pago.
 
 06 - Fazer um programa que leia três valores com ponto flutuante de dupla precisão: A, B e C. Em seguida, calcule e
-mostre:
-a) a área do triângulo retângulo que tem A por base e C por altura.
-b) a área do círculo de raio C. (pi = 3.14159)
-c) a área do trapézio que tem A e B por bases e C por altura.
-d) a área do quadrado que tem lado B.
-e) a área do retângulo que tem lados A e B.
+mostre:<br>
+a) a área do triângulo retângulo que tem A por base e C por altura.<br>
+b) a área do círculo de raio C. (pi = 3.14159)<br>
+c) a área do trapézio que tem A e B por bases e C por altura.<br>
+d) a área do quadrado que tem lado B.<br>
+e) a área do retângulo que tem lados A e B.<br>
